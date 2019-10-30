@@ -1,0 +1,38 @@
+a =  20
+b =  3
+alpha =  1
+a =  20
+b =  1
+h =
+
+   0.72077
+   0.86163
+   0.77867
+   0.44034
+   0.21634
+   0.28469
+   0.62749
+   0.84743
+   0.82653
+   0.55040
+   0.24735
+   0.23597
+   0.51824
+   0.81512
+   0.85322
+   0.65659
+   0.30368
+   0.21165
+   0.41063
+   0.76032
+
+J =  0.76584
+
+!! Submission failed: operator *: nonconformant arguments (op1 is 20x1, op2 is 20x3)
+
+
+Function: costFunction
+FileName: /Users/amogha/Desktop/ML_AndrewNG/machine-learning-ex2/ex2/costFunction.m
+LineNumber: 29
+
+Please correct your code and resubmit.
